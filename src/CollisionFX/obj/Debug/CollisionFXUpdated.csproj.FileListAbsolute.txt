@@ -1,0 +1,3 @@
+E:\CollisionFX-Updated-master\src\CollisionFX\obj\Debug\CollisionFXUpdated.csprojAssemblyReference.cache
+E:\CollisionFX-Updated-master\src\CollisionFX\obj\Debug\CollisionFXUpdated.csproj.CoreCompileInputs.cache
+E:\CollisionFX-Updated-master\src\CollisionFX\bin\Debug\CollisionFXUpdated.dll
