@@ -1,13 +1,11 @@
 {
-    "NAME":"CollisionFX-ReUpdated",
-	"URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/193803-19x-collisionfx-reupdated/",
-    "DOWNLOAD":"", //Coming Soon
-
+    "NAME": "CollisionFX-ReUpdated",
+    "URL": "https://github.com/VoidCosmo/CollisionFX-ReUpdated/raw/master/CollisionFX-ReUpdated/src/CollisionFX/CollisionFX-ReUpdated.version",
+    "DOWNLOAD": "https://spacedock.info/mod/2426/CollisionFX-ReUpdated",
     "VERSION":{
         "MAJOR":1,
-        "MINOR":0,
-        "PATCH":0,
-        "BUILD":0
+        "MINOR":1,
+        "PATCH":0
     },
     "KSP_VERSION":{
         "MAJOR":1,
@@ -16,12 +14,10 @@
     },
     "KSP_VERSION_MIN":{
         "MAJOR":1,
-        "MINOR":8,
-        "PATCH":0
+        "MINOR":8
     },
     "KSP_VERSION_MAX":{
         "MAJOR":1,
-        "MINOR":9,
-        "PATCH":99
+        "MINOR":9
     }
 }
